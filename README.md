@@ -117,8 +117,8 @@ SQL-Data-Warehouse-Project/
 │   └── tests/
 │
 ├── EDA-Scrpits/
-│   ├── 
-│   ├── change_over_time.sql
+│   ├──Exploratory data analysis(1-6)
+│   └──Advanced analytics (7-13)
 │
 ├── README.md
 └── LICENSE
